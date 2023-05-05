@@ -1,0 +1,8 @@
+Take a file name server.js
+initiate npm to install nodejs
+node js basically a backend
+next is install express()
+npm install nodemon and run server.
+create folder view.(createa room.ejs file it is a html file).ejs(embedet java script).
+
+uuid:unique id (uuid generate unique id for diffrent room)
